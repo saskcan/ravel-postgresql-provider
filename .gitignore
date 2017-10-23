@@ -1,0 +1,7 @@
+node_modules
+*.sublime-workspace
+npm-debug.log
+/test-dist
+reports
+./package-lock.json
+.idea
