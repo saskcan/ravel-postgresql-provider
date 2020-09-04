@@ -5,3 +5,5 @@ npm-debug.log
 reports
 ./package-lock.json
 .idea
+coverage
+.nvmrc

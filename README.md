@@ -98,7 +98,7 @@ Requiring the `ravel-postgresql-provider` module will register a configuration p
 }
 ```
 
-All options for a `node-postres` connection are supported, and are documented [here](https://node-postgres.com/api/client).
+All options for a `node-postgres` connection are supported, and are documented [here](https://node-postgres.com/api/client).
 
 ## Additional Notes
 
